@@ -16,21 +16,6 @@ This project demonstrates how to automate the data loading process into Snowflak
   - Monitor data ingestion status
 
 ---
-
-## 🖼️ Screenshots
-
-The following screenshots capture key steps of the implementation:
-
-| Screenshot | Description |
-|-----------|-------------|
-| ![Screenshot](screenshots/snowpipe_table.png) | Snowpipe table creation in Snowflake |
-| ![Screenshot](screenshots/gcs_file.png) | Data file detection in GCS |
-| ![Screenshot](screenshots/pipe_status.png) | COPY history showing successful ingestion |
-| ![Screenshot](screenshots/pubsub.png) | Auto-ingest pipe monitoring |
-| ![Screenshot](screenshots/result.png) | Data preview after loading into the Snowflake table |
-
----
-
 ## 🚀 How It Works
 
 1. Files are placed in a GCS bucket.
