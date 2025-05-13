@@ -23,11 +23,11 @@ The following screenshots capture key steps of the implementation:
 
 | Screenshot | Description |
 |-----------|-------------|
-| ![Screenshot](screenshots/Screenshot%202025-05-12%20at%208.45.51%E2%80%89PM.png) | Snowpipe table creation in Snowflake |
-| ![Screenshot](screenshots/Screenshot%202025-05-12%20at%208.45.59%E2%80%89PM.png) | Data file detection in GCS |
-| ![Screenshot](screenshots/Screenshot%202025-05-12%20at%208.46.07%E2%80%89PM.png) | COPY history showing successful ingestion |
-| ![Screenshot](screenshots/Screenshot%202025-05-12%20at%208.48.05%E2%80%89PM.png) | Auto-ingest pipe monitoring |
-| ![Screenshot](screenshots/Screenshot%202025-05-12%20at%208.49.12%E2%80%89PM.png) | Data preview after loading into the Snowflake table |
+| ![Screenshot](./screenshots/Screenshot%202025-05-12%20at%208.45.51%E2%80%89PM.png) | Snowpipe table creation in Snowflake |
+| ![Screenshot](./screenshots/Screenshot%202025-05-12%20at%208.45.59%E2%80%89PM.png) | Data file detection in GCS |
+| ![Screenshot](./screenshots/Screenshot%202025-05-12%20at%208.46.07%E2%80%89PM.png) | COPY history showing successful ingestion |
+| ![Screenshot](./screenshots/Screenshot%202025-05-12%20at%208.48.05%E2%80%89PM.png) | Auto-ingest pipe monitoring |
+| ![Screenshot](./screenshots/Screenshot%202025-05-12%20at%208.49.12%E2%80%89PM.png) | Data preview after loading into the Snowflake table |
 
 ---
 
